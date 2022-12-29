@@ -1,5 +1,10 @@
 # MazmorraGame-JS
 Juego con POO, realizado con vanilla JS 🕹️ 
+<ul>
+- Tablero
+- Lógica
+- Grafico y animaciones. (ESCENARIO FIJO)
+</ul>
 
 <br>
 
