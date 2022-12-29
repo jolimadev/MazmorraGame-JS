@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
+
+body{
+    color: rgb(53, 49, 139);
+    font-family: 'Prosto One', cursive;
+
+}
+
+h1{
+    text-align: center;
+}
+
+#canvas {
+    display: flex;
+    align-items: center;
+}
